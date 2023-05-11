@@ -1,15 +1,15 @@
 #!/bin/bash
 
-# List available Wi-Fi networks
-echo "Available Wi-Fi networks:"
+# Redes disponibles
+echo "Redes Wi-Fi disponibles:"
 nmcli device wifi list
 
-# Prompt user to select a network
-read -p "Enter the name of the network you want to connect to: " network
+# Elegir una red
+read -p "Elegir red a la que conectarse: " network
 
-# Prompt user to enter network password
-read -p "Enter the password for $network: " password
+# Contraseña de la red
+read -p "Clave para $network: " password
 echo
 
-# Connect to the selected network
+# Conectarse a la red seleccionada
 nmcli device wifi connect $network password $password
