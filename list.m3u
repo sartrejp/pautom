@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",América TV
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",El nueve
+https://www.twitch.tv/elnueveenvivo
+#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe (720p) [Geo-blocked]
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Telefe (720p) [Geo-blocked]
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",El Trece
+http://190.123.90.146:8000/play/a00n/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",C5N
+https://www.youtube.com/live/jTDk5CswBVk?si=Oc8C9NsFD_YfN9Kb
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",LN+ La Nación+
+https://www.youtube.com/live/5f__Ls4_VYQ?si=kKqz3k20GRvxIeCa
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TN Todo Noticias
+https://www.youtube.com/live/cb12KmMMDJA?si=qqBOkBFrXZaboD_N
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",A24
+https://www.youtube.com/live/ArKbAx1K-2U?si=6_UikVhJ9rYQrwhM
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Crónica TV
+https://www.youtube.com/live/avly0uwZzOE?si=ifmZ6QK34Hdk8eUB
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 26
+https://www.youtube.com/live/BTaSHvWJW5A?si=t1INDkti5DOzgig6
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Televisión Pública
+https://www.youtube.com/live/pGlhgOZMZPU?si=CaZZjEDzRSGAdN0D
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Undefined",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?checkedby:iptvcat.com
+
